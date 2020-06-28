@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 薛坤
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 黑龙江省政协副秘书长
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+薛坤，男，汉族，1961年5月生，黑龙江齐齐哈尔人。哈尔滨医科大学公共卫生管理硕士研究生毕业，高级工程师。1979年1月参加工作，1999年3月加入民革。
+现任中国国民党革命委员会第十三届中央委员会委员，黑龙江省政协副秘书长、民革黑龙江省委会驻会副主委。
