@@ -20,14 +20,14 @@ date_format = "2006"
 
 [[item]]
   organization = ""
-  organization_url = ""
   title = "七次立功受奖，两次受到国家领导人接见"
-  url = ""
-  certificate_url = ""
   date_start = "1980-10-01"
-  date_end = "1982-10-01"
-  description = ""
+  date_end = ""
 
-
+[[item]]
+  organization = ""
+  title = "七次立功受奖，两次受到国家领导人接见"
+  date_start = "1980-10-01"
+  date_end = ""
 
 +++
