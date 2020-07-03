@@ -17,6 +17,18 @@ date_format = "2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "齐齐哈尔市华旗乳品厂化验员"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1983-01-01"
+  date_end = "1984-01-01"
+  description = ""
+
+
 [[experience]]
   title = "齐齐哈尔市华旗乳品厂化验员"
   company = ""
