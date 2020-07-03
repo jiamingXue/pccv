@@ -18,13 +18,12 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = ""
-  
-  title = "百度百科-薛坤"
-  certificate_url = "https://baike.baidu.com/item/%E8%96%9B%E5%9D%A4"
-  date_start = "1"
-  date_end = ""
+# [[item]]
+#   organization = ""
+#   title = "百度百科-薛坤"
+#  certificate_url = "https://baike.baidu.com/item/%E8%96%9B%E5%9D%A4"
+#  date_start = "1"
+#  date_end = ""
 
 [[item]]
   organization = ""
