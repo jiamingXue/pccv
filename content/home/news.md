@@ -107,21 +107,14 @@ date_format = "2006"
 
 
 [[experience]]
-  title = "齐齐哈尔市华旗乳品厂化验员"
+  title = "百度百科"
   company = ""
   company_url = ""
   location = ""
   date_start = "1983-01-01"
   date_end = "1984-01-01"
+  url = "https://baike.baidu.com/item/%E8%96%9B%E5%9D%A4"
   description = ""
 
-[[experience]]
-  title = "百度百科"
-  company = ""
-  company_url = "https://baike.baidu.com/item/%E8%96%9B%E5%9D%A4"
-  location = ""
-  date_start = ""
-  date_end = ""
-  description = ""
 
 +++
