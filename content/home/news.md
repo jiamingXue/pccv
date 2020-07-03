@@ -116,12 +116,12 @@ date_format = "2006"
   description = ""
 
 [[experience]]
-  title = "人民解放军报务员"
+  title = "百度百科"
   company = ""
-  company_url = ""
+  company_url = "https://baike.baidu.com/item/%E8%96%9B%E5%9D%A4"
   location = ""
-  date_start = "1979-01-01"
-  date_end = "1983-12-31"
+  date_start = ""
+  date_end = ""
   description = ""
 
 +++
