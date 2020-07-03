@@ -27,8 +27,9 @@ date_format = "2006"
 
 [[item]]
   organization = ""
-  title = "全国青年发明一等奖"
+  title = "百度百科-薛坤"
   date_start = "1983-10-01"
+  certificate_url = "https://baike.baidu.com/item/%E8%96%9B%E5%9D%A4"
   date_end = ""
   
 [[item]]
