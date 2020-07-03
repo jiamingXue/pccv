@@ -28,7 +28,7 @@ date_format = "2006"
 [[item]]
   organization = ""
   title = "百度百科-薛坤"
-  date_start = "1987-10-01"
+  date_start = ""
   url = "https://baike.baidu.com/item/%E8%96%9B%E5%9D%A4"
   date_end = ""
   
