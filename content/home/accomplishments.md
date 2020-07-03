@@ -26,8 +26,66 @@ date_format = "2006"
 
 [[item]]
   organization = ""
-  title = "七次立功受奖，两次受到国家领导人接见"
-  date_start = "1980-10-01"
+  title = "全国青年发明一等奖"
+  date_start = "1983-10-01"
   date_end = ""
+  
+[[item]]
+  organization = ""
+  title = "全国“五小发明”成果一等奖、全国军地两用人才先进个人"
+  date_start = "1987-10-01"
+  date_end = ""
+  
+[[item]]
+  organization = ""
+  title = "全国新长征突击手"
+  date_start = "1987-10-01"
+  date_end = ""
+  
+[[item]]
+  organization = ""
+  title = "省、市劳动模范、黑龙江省质监系统先进个人"
+  date_start = "1987-10-01"
+  date_end = ""  
+
+[[item]]
+  organization = ""
+  title = "黑龙江省优秀青年企业家"
+  date_start = "1995-10-01"
+  date_end = ""  
+
+
+
+[[item]]
+  organization = ""
+  title = "研究员级高级工程师"
+  date_start = "1997-10-01"
+  date_end = ""  
+  
+  
+
+[[item]]
+  organization = ""
+  title = "黑龙江省抗洪模范"
+  date_start = "1998-10-01"
+  date_end = ""  
+  
+
+
+[[item]]
+  organization = ""
+  title = "黑龙江省十大杰出青年荣誉称号"
+  date_start = "2000-10-01"
+  date_end = ""  
+
+
+[[item]]
+  organization = ""
+  title = "全国质检系统抗震救灾先进个人"
+  date_start = "2008-10-01"
+  date_end = ""  
+
+
+
 
 +++
