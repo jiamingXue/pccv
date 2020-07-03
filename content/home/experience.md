@@ -33,12 +33,12 @@ date_format = "2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "人民解放军报务员"
+  company = ""
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = ""
+  date_start = "1979-01-01"
+  date_end = "1983-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
