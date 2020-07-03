@@ -20,12 +20,89 @@ date_format = "2006"
 
 
 [[experience]]
-  title = "齐齐哈尔市华旗乳品厂化验员"
+  title = "民革黑龙江省委驻会副主委"
   company = ""
   company_url = ""
   location = ""
-  date_start = "1983-01-01"
-  date_end = "1984-01-01"
+  date_start = "2012-01-01"
+  date_end = "2020-01-01"
+  description = ""
+
+
+
+[[experience]]
+  title = "民革黑龙江省委会副主委、省政协常委"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2002-01-01"
+  date_end = "2020-01-01"
+  description = ""
+
+
+[[experience]]
+  title = "黑龙江省政协委员"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1998-01-01"
+  date_end = "2020-01-01"
+  description = ""
+
+
+
+
+[[experience]]
+  title = "黑龙江省质监局计量物资供应站站长、医用CT检测站站长"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1997-01-01"
+  date_end = "2012-01-01"
+  description = ""
+
+
+
+[[experience]]
+  title = "省质监系统国有公司经理"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1992-01-01"
+  date_end = "1997-01-01"
+  description = ""
+
+
+
+[[experience]]
+  title = "齐齐哈尔市技术监督局鲜奶乳品质量监督检验站站长"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1990-01-01"
+  date_end = "1992-01-01"
+  description = ""
+
+
+
+[[experience]]
+  title = "齐齐哈尔市技术监督局鲜奶乳品质量监督检验站副站长"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1987-01-01"
+  date_end = "1990-01-01"
+  description = ""
+
+
+
+[[experience]]
+  title = "哈尔滨医科大学公共卫生专业食品卫生系学习"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "1984-01-01"
+  date_end = "1987-01-01"
   description = ""
 
 
