@@ -8,5 +8,6 @@ weight = 66  # Order that this section will appear.
 title = "风采展示"
 subtitle = ""
 +++
+{{< video library="1" src="kuaiban.mp4" controls="yes" >}}
 
 {{< gallery >}}
